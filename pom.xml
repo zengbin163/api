@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.chihuo</groupId>
-	<artifactId>uid-server</artifactId>
+	<artifactId>api</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>UID-Generator</name>
-	<description>An unique id generator</description>
+	<name>api</name>
+	<description>所有接口api声明</description>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
